@@ -1,0 +1,7 @@
+{
+  "name": "Guobiao Master",
+  "description": "A professional Chinese Standard Mahjong (Guobiao) scoring assistant powered by Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
